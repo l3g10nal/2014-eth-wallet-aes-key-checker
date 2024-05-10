@@ -14,8 +14,11 @@ To run this script, you need to install Python and the required Python packages.
 ### Installing Python Packages
 ```bash
 pip install pycryptodome eth-keys
+```
 
 ## Running the script
 ```bash
 python aes_key_evaluator.py
+```
+
 
